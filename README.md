@@ -19,10 +19,6 @@ Este repositório contém uma página de login moderna e responsiva, estilizada 
 ✔️ Fácil personalização e adaptação<br>
 ✔️ Compatível com diversos navegadores
 
-## 📸 Demonstração
-
-Adicione aqui um GIF ou print demonstrando o funcionamento da aplicação.
-
 ## 🛠 Como Rodar o Projeto
 
 ### 1️⃣ Clone o repositório:
