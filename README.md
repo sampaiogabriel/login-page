@@ -1,6 +1,6 @@
 # Login Page
 
-🔗 [Preview](sampaiogabriel.github.io/login-page/)
+🔗 [Preview](https://sampaiogabriel.github.io/login-page/)
 
 ## 📌 Sobre o Projeto
 
